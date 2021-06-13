@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.phone{
+    padding-top:  5px;
+    height: 650px;
+    float:right;
+    margin: 10px;
+}
+body{
+    background-color: black! important;
+}
+.container{
+    margin-top: 20px;
+}
+.right-column{
+    background: black;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+    padding: 40px;
+}
+.serenity-logo{
+    margin-top:5px ;
+}
+.info{
+    font-weight:600px ;
+    line-height: 20px;
+    font-size: 17px ;
+    color: #999 ;
+}
+.or{
+    font-size: 13px !important;
+    color: #999;
+    font-weight: 600;
+}
+.or::before{
+    content:'';
+    background: #efefef;
+    display: block;
+    height: 2px;
+    width: 110px;
+    position: relative;
+    top: 11px;
+}
+.or::after{
+    content:'';
+    background: #efefef;
+    display: block;
+    height: 2px;
+    width: 110px;
+    position: relative;
+    bottom: 10px;
+    left: 160px;
+}
+.form-group{
+    margin-bottom: 6px! important;
+}
+.form-control{
+    background: #fafafa! important;
+    border: 1px solid #efefef! important; 
+    font-size: 12px! important;
+}
+::placeholder{
+    color:#999;! important;
+}
+.btn{
+    margin: 12px auto;
+    padding: 2px! important;
+    font-weight: 600! important;
+}
+.btn-primary{
+    background-color: #3897f0! important;
+    border: 1px solid #3897f0! important;
+    
+}
+.terms{
+    line-height:18px;
+    font-size: 14px;
+    color: #999;
+    margin: 5px 20px;
+}
+.right-column-login{
+    background: rgb(0, 0, 0);
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+    padding: 0px;
+}
+.right-column-login p{
+    color: #999;
+}
+.right-column-login a:hover{
+    text-decoration: none;
+}
+.apps{
+	text-align: center;
+	color: #262626;
+}
+
+.apps p{
+	margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 250px;
+    color: white;
+}
+
+.icons a img{
+    
+    width: 150px;
+	height: 30px;
+	
+    margin-right: 250px;
+   
+    
+}
+.app{
+	text-align: center;
+	color: #262626;
+}
+
+.app p{
+	
+    color: white;
+}
+
+.icon a img{
+    
+    width: 150px;
+	height: 30px;
+	
+   
+}
+.right-columnn{
+    background: black;
+    border: 1px solid #e6e6e6;
+    width: 400px;
+    margin: 120px;
+    padding: 40px;
+}
+.right-columnnnn{
+    background: black;
+    border: 1px solid #e6e6e6;
+    width: 400px;
+   margin-top: 10px;
+    margin-left: 420px;
+    padding: 60px;
+}
+.btn1{
+    height: 50px;
+    width: 100px;
+    margin:15px;  
+    margin-top: 70px;  
+
+    
+}
+.btn2{
+    margin: 100px;
+   
+   margin-bottom: 10px;
+
+    padding: 2px! important;
+    font-weight: 600! important;
+}
